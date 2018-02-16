@@ -1,2 +1,2 @@
 # hello-world
-carry on my first day
+ on my first day
